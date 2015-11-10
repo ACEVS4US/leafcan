@@ -1,0 +1,1 @@
+Project and information on the LeafCAN information display for the Nissan Leaf electric vehicle. LeafCAN communicates with the CAN bus and displays information not readily available from the vehicle's dash.
